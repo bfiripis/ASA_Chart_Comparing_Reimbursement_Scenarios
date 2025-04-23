@@ -1,0 +1,12 @@
+name: ASAChartComparingReimbursementSourcesUnderDifferentHealthFunds
+title: ASAChartComparingReimbursementSourcesUnderDifferentHealthFunds
+username: bfiripis
+account: bfiripis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14059270
+bundleId: 9961559
+url: https://bfiripis.shinyapps.io/ASAChartComparingReimbursementSourcesUnderDifferentHealthFunds/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
